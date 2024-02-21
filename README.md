@@ -13,7 +13,7 @@ This Python application allows users to encrypt and decrypt image files using th
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/encryption-decryption.git
+    git clone https://github.com/EniyanCSE/Encrypt-Decrypt-Image---AES.git
     ```
 
 2. Navigate to the project directory:
