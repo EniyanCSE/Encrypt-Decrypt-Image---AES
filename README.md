@@ -25,7 +25,7 @@ This Python application allows users to encrypt and decrypt image files using th
 3. Run the application:
 
     ```bash
-    python main.py
+    python app.py
     ```
 
 4. The GUI will open, presenting two buttons: "Encrypt" and "Decrypt".
